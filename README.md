@@ -7,8 +7,6 @@ Goal: let's build a webapp that specializes in doing that, is tighly integrated 
 
 # Initial design
 
-**Please discuss in the [showcaser room on Gitter](https://gitter.im/citybound/showcaser)**
-
 ## Pages
 
 ### Homepage
